@@ -1,0 +1,4 @@
+a=input('enter the course name:')
+print(a,'is a programming language')
+b=float(input('enter your weight:'))
+print('your weight is',b)
